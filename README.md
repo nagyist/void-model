@@ -4,6 +4,8 @@
 
 # VOID: Video Object and Interaction Deletion
 
+### 🎉 Accepted at ECCV 2026
+
 <div style="line-height: 1;">
   <a href="https://void-model.github.io/" target="_blank" style="margin: 2px;">
     <img alt="Website" src="https://img.shields.io/badge/Website-VOID-4285F4" style="display: inline-block; vertical-align: middle;"/>
